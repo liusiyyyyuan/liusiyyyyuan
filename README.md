@@ -29,7 +29,7 @@ I’m @liusiyyyyuan, a passionate Java developer from China. I enjoy learning, e
 
 🤝 Let’s Connect!
 
-Feel free to:
+
 	•	Follow me for updates! 🌟
 	•	Share your thoughts on my projects. 💬
 	•	Collaborate on something awesome! 🤝
